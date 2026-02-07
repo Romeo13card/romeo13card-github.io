@@ -1,0 +1,281 @@
+{
+  "device": {
+    "name": "Redmi 10C/10/10 Power",
+    "codename": "fog/rain/wind",
+    "model": "Xiaomi"
+  },
+  "roms": [
+    {
+      "family": "CrDroid",
+      "android": "16",
+      "versions": [
+        {
+          "name": "CrDroid 12.3",
+          "date": "2025-12-01",
+          "links": [
+            {
+              "name": "PixelDrain",
+              "url": "https://pixeldrain.com/u/jkjY42JK"
+            }
+          ]
+        },
+        {
+          "name": "CrDroid 12.4",
+          "date": "2025-12-10",
+          "links": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/Romeo13card/crdroid_ota_update/releases/download/crDroidAndroid-16.0-20251210-fog-v12.4/crDroidAndroid-16.0-20251210-fog-v12.4.zip"
+            }
+          ]
+        },
+        {
+          "name": "CrDroid 12.5",
+          "date": "2025-12-30",
+          "links": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/Romeo13card/crdroid_ota_update/releases/download/crDroidAndroid-16.0-20251230-fog-v12.5/crDroidAndroid-16.0-20251230-fog-v12.5.zip"
+            }
+          ]
+        },
+        {
+          "name": "CrDroid 12.6",
+          "date": "2026-01-29",
+          "links": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/Romeo13card/crdroid_ota_update/releases/download/crDroidAndroid-16.0-20260129-fog-v12.6/crDroidAndroid-16.0-20260129-fog-v12.6.zip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "AxionAOSP",
+      "android": "16",
+      "versions": [
+        {
+          "name": "AxionAOSP 2.4 (VANILLA)",
+          "date": "2026-01-27",
+          "links": [
+            {
+              "name": "Google Drive",
+              "url": "https://drive.usercontent.google.com/download?id=1LQKFoseKahGCAaka1uOlHWu-vUvLnCk_&export=download"
+            }
+          ]
+        },
+        {
+          "name": "AxionAOSP 2.3 (VANILLA)",
+          "date": "2020-01-25",
+          "links": [
+            {
+              "name": "Google Drive",
+              "url": "https://drive.usercontent.google.com/download?id=1xo5td5KNSoeP0KCbg482dLNZXkAanJG2&export=download"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "Project MistOS",
+      "android": "16",
+      "versions": [
+        {
+          "name": "Project MistOS 4.4 (VANILLA)",
+          "date": "2025-11-20",
+          "links": [
+            {
+              "name": "Google Drive",
+              "url": "https://drive.usercontent.google.com/download?id=10TQcf5wu_yA_R8Z3ULwohh6z2Cj0Ap4a&export=download"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "AviumUI",
+      "android": "16",
+      "versions": [
+        {
+          "name": "AviumUI 16 (VANILLA)",
+          "date": "2026-01-06",
+          "links": [
+            {
+              "name": "PixelDrain",
+              "url": "https://pixeldrain.com/u/8gfVjvWU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "LunarisAOSP",
+      "android": "16",
+      "versions": [
+        {
+          "name": "LunarisAOSP 3.6 (GAPPS)",
+          "date": "2025-12-09",
+          "links": [
+            {
+              "name": "PixelDrain",
+              "url": "https://pixeldrain.com/u/TZ7P8DWn"
+            }
+          ]
+        },
+        {
+          "name": "LunarisAOSP 3.6 (VANILLA)",
+          "date": "2025-12-09",
+          "links": [
+            {
+              "name": "PixelDrain",
+              "url": "https://pixeldrain.com/u/63Pj3NT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "The Clover Project",
+      "android": "16",
+      "versions": [
+        {
+          "name": "The Clover Project 3.6",
+          "date": "2025-12-08",
+          "links": [
+            {
+              "name": "GDrive",
+              "url": "https://drive.usercontent.google.com/download?id=1vujpbKnIPoWdHIZHgx62Rv4cUV4vXYag&export=download"
+            }
+          ]
+        },
+        {
+          "name": "The Clover Project 3.5",
+          "date": "2025-12-08",
+          "links": [
+            {
+              "name": "PixelDrain",
+              "url": "https://pixeldrain.com/u/ra7kkqpV"
+            }
+          ]
+        },
+        {
+          "name": "The Clover Project 3.4",
+          "date": "2025-11-22",
+          "links": [
+            {
+              "name": "PixelDrain",
+              "url": "https://pixeldrain.com/u/odUgHXg1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "AlphaDroid",
+      "android": "15",
+      "versions": [
+        {
+          "name": "AlphaDroid 3.2.1",
+          "date": "2025-10-04",
+          "links": [
+            {
+              "name": "SourceForge",
+              "url": "https://sourceforge.net/projects/alphadroid-project/files/fog/AlphaDroid-15-20251004-vanilla-fog-v3.2.1.zip/download"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "AlphaDroid",
+      "android": "16",
+      "versions": [
+        {
+          "name": "AlphaDroid 4.2 (VANILLA)",
+          "date": "2025-12-17",
+          "links": [
+            {
+              "name": "PixelDrain",
+              "url": "https://pixeldrain.com/u/Xu5RZpXC"
+            }
+          ]
+        },
+        {
+          "name": "AlphaDroid 4.2 (GAPPS)",
+          "date": "2025-12-17",
+          "links": [
+            {
+              "name": "PixelDrain",
+              "url": "https://pixeldrain.com/u/oZkSDhCV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "WitAqua",
+      "android": "16",
+      "versions": [
+        {
+          "name": "WitAqua 3.0",
+          "date": "2025-11-21",
+          "links": [
+            {
+              "name": "PixelDrain",
+              "url": "https://pixeldrain.com/u/p6V3Qxy8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "Project Matrixx",
+      "android": "15",
+      "versions": [
+        {
+          "name": "Project Matrixx 11.9.0",
+          "date": "2025-09-15",
+          "links": [
+            {
+              "name": "PixelDrain",
+              "url": "https://pixeldrain.com/u/Vm5YNRkv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "Project Matrixx",
+      "android": "16",
+      "versions": [
+        {
+          "name": "Project Matrixx 12.1.0",
+          "date": "2025-11-19",
+          "links": [
+            {
+              "name": "PixelDrain",
+              "url": "https://pixeldrain.com/u/zdaWiMg6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "BlackIron",
+      "android": "15",
+      "versions": [
+        {
+          "name": "BlackIron 5.8",
+          "date": "2025-08-20",
+          "links": [
+            {
+              "name": "PixelDrain",
+              "url": "https://pixeldrain.com/u/JT6aZZPZ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
